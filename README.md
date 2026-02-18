@@ -51,7 +51,7 @@ Mini_Project/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Vaibhav9725/Mini_Project.git
+   git clone https://github.com/Vaibhav9725/Mini_Project-Perfect-diet-website-using-ai.git
    ```
 2. Open the project folder
 3. Run `index.html` in your browser
